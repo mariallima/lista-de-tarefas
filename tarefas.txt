@@ -1,5 +1,5 @@
-[] Estudar Git
-[] Fazer exercicios de programacao
-[] Estudar python 
-[] Fazer atividades da escola 
-[] Revisar conteudo
+[X] Estudar Git
+[ ] Fazer exercicios de programacao
+[X] Estudar Python 
+[ ] Fazer atividades da escola 
+[ ] Revisar conteudo
